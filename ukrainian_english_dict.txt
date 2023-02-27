@@ -1,0 +1,5 @@
+зима;winter
+літо;summer
+місяць;moon
+сонце;sun
+яблуко;apple
